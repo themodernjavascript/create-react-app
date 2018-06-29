@@ -5,6 +5,8 @@ excerpt: ""
 last_modified_at: 2018-05-17T15:58:49-04:00
 ---
 
+# Adding a Router
+
 We will use React to build a very simple app.
 
 ## Installing Crate React APP
