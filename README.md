@@ -13,4 +13,5 @@
 #### ROUTER
   
   1. [Installation](/content/router/12-installation.md)
-  
+  2. [Installation](/content/router/13-add-a-router.md)
+
