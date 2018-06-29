@@ -18,4 +18,4 @@
 
 #### STYLESHEET
 
-  1. [Adding a Stylesheet](/content/14.add-a-stylesheet.md)
+  1. [Adding a Stylesheet](/content/stylesheet/14.add-a-stylesheet.md)
