@@ -1,7 +1,5 @@
 # Create React App
 
-### Table of Contents
-
 #### INTRODUCTION
 
   1. [What is Create React App?](/content/introduction/01-what-is-create-react-app.md)
