@@ -5,6 +5,8 @@ excerpt: ""
 last_modified_at: 2018-05-14T15:58:49-04:00
 ---
 
+# Structure
+
 Change directories into the app you just created. If you list the contents of the directory including hidden files (ls -la), you should see the following structure:
 
 ![Create React App Structure](/assets/images/create-react-app-structure.png)

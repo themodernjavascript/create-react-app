@@ -5,6 +5,8 @@ excerpt: ""
 last_modified_at: 2018-05-14T15:58:49-04:00
 ---
 
+# Starting the Create React App Development Server
+
 As was stated in the success message when you ran create-react-app, you just need to run `npm start` in your app directory to begin serving the development server. It should auto-open a tab in your browser that points to `http://localhost:3000/` (if not, manually visit that address). You will be greeted with the React welcome banner:
 
 ![Create React App Demo](/assets/images/create-react-app-demo.png)

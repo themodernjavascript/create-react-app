@@ -5,6 +5,8 @@ excerpt: "It is possible to manually create a React app, but Facebook has create
 last_modified_at: 2018-05-14T15:58:49-04:00
 ---
 
+# Installation
+
 It is possible to manually create a React app, but Facebook has created a node module `create-react-app` to generate a boilerplate version of a React application.
 
 Besides providing something that works out-of-the-box, this has the added benefit of providing a consistent structure for React apps that you will recognize as you move between React projects. It also provides an out-of-the-box build script and development server.
