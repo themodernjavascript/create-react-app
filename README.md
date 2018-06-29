@@ -25,4 +25,5 @@
 
 #### FETCHING DATA WITH AJAX
 
-  1. [Fetching Data with AJAX Requests](/content/stylesheet/17-fetch-data-with-ajax-request.md)
+  1. [Fetching Data with AJAX Requests](/content/fetching-data-with-ajax/17-fetch-data-with-ajax-request.md)
+  2. [AJAX and APIs](/content/fetching-data-with-ajax/18-ajax-and-apis.md)
