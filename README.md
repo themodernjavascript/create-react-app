@@ -28,3 +28,4 @@
   1. [Fetching Data with AJAX Requests](/content/fetching-data-with-ajax/17-fetch-data-with-ajax-request.md)
   2. [AJAX and APIs](/content/fetching-data-with-ajax/18-ajax-and-apis.md)
   3. [Proxying API Requests in Development](/content/fetching-data-with-ajax/19-proxying-api-request.md)
+  4. [Using HTTPS in Development](/content/fetching-data-with-ajax/20-use-https-in-development.md)
