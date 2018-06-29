@@ -8,4 +8,4 @@
 
   1. [Installation](/content/get-started/02-installation.md)
   2. [Structure](/content/get-started/03-structure.md)
-  1. [Synchronous and Asynchronous](/content/get-started/04-starting-the-create-react-app-development-server.md)
+  1. [Starting the Create React App Development Server](/content/get-started/04-starting-the-create-react-app-development-server.md)
