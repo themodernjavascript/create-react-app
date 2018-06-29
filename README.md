@@ -22,3 +22,7 @@
   2. [Adding Material UI](/content/stylesheet/21-add-material-ui.md)
   3. [Adding Bootstrap](/content/stylesheet/15-add-bootstrap.md)
   4. [Adding a CSS Preprocessor (Sass, Less etc.)](/content/stylesheet/16-add-a-css-reprocessor.md)
+
+#### FETCHING DATA WITH AJAX
+
+  1. [Fetching Data with AJAX Requests](/content/stylesheet/17-fetch-data-with-ajax-request.md)
