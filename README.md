@@ -43,3 +43,4 @@
 #### SEO
 
   1. [Generating Dynamic meta Tags on the Server](/content/seo/22-generate-dynamic-meta-tags-on-the-server.md)
+  2. [Pre-Rendering into Static HTML Files](/content/seo/23-pre-render-into-static-html-files.md)
