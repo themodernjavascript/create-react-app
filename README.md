@@ -45,3 +45,4 @@
   1. [Generating Dynamic meta Tags on the Server](/content/seo/22-generate-dynamic-meta-tags-on-the-server.md)
   2. [Pre-Rendering into Static HTML Files](/content/seo/23-pre-render-into-static-html-files.md)
   3. [Injecting Data from the Server into the Page](/content/seo/24-inject-data-from-the-server-into-the-page.md)
+  4. [Using Global Variables](/content/seo/25-use-global-variables.md)
