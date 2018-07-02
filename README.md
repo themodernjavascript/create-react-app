@@ -35,3 +35,4 @@
   1. [What is Redux?](/content/redux/05-what-is-redux.md)
   2. [Redux Inspiration](/content/redux/06-redux-inspiration.md)
   3. [Unidirectional Data Flow Architecture](/content/redux/07-unidirectional-data-flow-architecture.md)
+  4. [Principles of Redux](/content/redux/08-principles-of-redux.md)
