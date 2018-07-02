@@ -37,3 +37,4 @@
   3. [Unidirectional Data Flow Architecture](/content/redux/07-unidirectional-data-flow-architecture.md)
   4. [Principles of Redux](/content/redux/08-principles-of-redux.md)
   5. [Pillars of Redux](/content/redux/09-pillars-of-redux.md)
+  6. [Usage with React](/content/redux/10-usage-with-react.md)
