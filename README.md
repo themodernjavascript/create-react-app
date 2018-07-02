@@ -39,3 +39,7 @@
   5. [Pillars of Redux](/content/redux/09-pillars-of-redux.md)
   6. [Usage with React](/content/redux/10-usage-with-react.md)
   7. [Example Todo List](/content/redux/11-example-todo-list.md)
+
+#### SEO
+
+  1. [Generating Dynamic meta Tags on the Server](/content/seo/22-generate-dynamic-meta-tags-on-the-server.md)
