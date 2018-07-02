@@ -32,3 +32,4 @@
 
 #### REDUX
 
+  1. [What is Redux?](/content/redux/05-what-is-redux.md)
