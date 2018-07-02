@@ -33,3 +33,4 @@
 #### REDUX
 
   1. [What is Redux?](/content/redux/05-what-is-redux.md)
+  2. [Redux Inspiration](/content/redux/06-redux-inspiration.md)
