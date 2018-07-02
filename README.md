@@ -38,3 +38,4 @@
   4. [Principles of Redux](/content/redux/08-principles-of-redux.md)
   5. [Pillars of Redux](/content/redux/09-pillars-of-redux.md)
   6. [Usage with React](/content/redux/10-usage-with-react.md)
+  7. [Example Todo List](/content/redux/11-example-todo-list.md)
